@@ -9,10 +9,10 @@ To implement task 1, user first has to sign up to the Gemini AI chatbot at gemin
 After some time AI will give back the picture with added Sloth Bear in it.
 
 Initial Picture:
-[Initial Picture](picture-template.jpeg)
+![Initial Picture](picture-template.jpeg)
 
 AI generated picture adding sloth bear:
-[AI Generated](Gemini_Generated_Picture.png)
+![AI Generated](Gemini_Generated_Picture.png)
 
 Task 3:
-[Graph](Graph.png)
+![Graph](Graph.png)
